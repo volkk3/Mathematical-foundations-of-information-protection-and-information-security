@@ -275,3 +275,4 @@ else:
 1. [Алгоритмы поиска простых чисел](https://habr.com/ru/post/468833/)
 2. [Лекция 2: Алгоритмы тестирования на простоту и факторизации](https://intuit.ru/studies/courses/13837/1234/lecture/31191)
 3. [Проверка чисел на простоту](https://spravochnick.ru/informatika/algoritmizaciya/proverka_chisel_na_prostotu/)
+4. [Символ Якоби](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB_%D0%AF%D0%BA%D0%BE%D0%B1%D0%B8)
