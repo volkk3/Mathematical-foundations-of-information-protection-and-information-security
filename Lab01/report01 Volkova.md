@@ -147,16 +147,17 @@ print('Криптограмма:', encrypted)
 
 ## Контрольный пример
 
-![Пример работы алгоритма](image/Screenshot_1.png){ #fig:001 width=70% height=70%}
+![Пример работы алгоритма Цезаря](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab01/screen/png01_1.PNG){ #fig:001 width=70% height=70%}
 
-Таким образом, число 1181 является нетривиальным делителем числа 1359331.
+![Пример работы алгоритма Атбаш](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab01/screen/png01_2.PNG){ #fig:001 width=70% height=70%}
 
 # Выводы
 
-В ходе выполнения работы мне удалось изучить задачу разложения на множители и p-алгоритм Полларда, а также реализовать данный алгоритм программно на языке Python.
+В ходе выполнения работы удалось изученить шифры простой замены: шифр Цезаря и шифр Атбаш, а также реализовать данные алгоритм программно на языке Python.
 
 
 # Список литературы{.unnumbered}
 
-1. [Алгоритмы тестирования на простоту и факторизации](https://habr.com/ru/post/521876/)
-2. [P-метод Полларда](https://ru.bmstu.wiki/P-метод_Полларда)
+1. [Шифр Атбаш](http://kriptografea.narod.ru/atbash.html)
+2. [Шифр Цезаря](https://barzunov.ru/2019/10/caesar_cipher/)
+3. [Шифр Цезаря](http://kriptografea.narod.ru/chezar.html)
