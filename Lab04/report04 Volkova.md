@@ -289,16 +289,22 @@ print('НОД(a,b)=',d)
 
 ## Контрольный пример
 
-![Пример работы алгоритма](image/Screenshot_1.png){ #fig:001 width=70% height=70%}
+![Пример работы алгоритма Евклида](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab04/screen/png04_1.PNG){ #fig:001 width=70% height=70%}
 
-Таким образом, число 1181 является нетривиальным делителем числа 1359331.
+![Пример работы бинарного алгоритма Евклида](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab04/screen/png04_2.PNG){ #fig:001 width=70% height=70%}
+
+![Пример работы расширенного алгоритма Евклида](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab04/screen/png04_3.PNG){ #fig:001 width=70% height=70%}
+
+![Пример работы расширенного биннарного алгоритма Евклида](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab04/screen/png04_4.PNG){ #fig:001 width=70% height=70%}
 
 # Выводы
 
-В ходе выполнения работы мне удалось изучить задачу разложения на множители и p-алгоритм Полларда, а также реализовать данный алгоритм программно на языке Python.
-
+В ходе выполнения работы удалось изучить понятие наибольшего общего делителя и его вычисление. Также изученить алгоритмы вычисления наибольшего общего делителя, такие как алгоритм Евклида, бинарный алгоритм Евклида, расширенный алгоритм Евклида и расширенный бинарный алгоритм Евклида, а также реализовать данные алгоритмы программно на языке Python.
 
 # Список литературы{.unnumbered}
 
-1. [Алгоритмы тестирования на простоту и факторизации](https://habr.com/ru/post/521876/)
-2. [P-метод Полларда](https://ru.bmstu.wiki/P-метод_Полларда)
+1. [Бинарный алгоритм вычисления НОД](https://kvodo.ru/binarnyiy-algoritm-vyichisleniya-nod.html)
+2. [Как найти НОД двух чисел по алгоритму Евклида](https://wiki.fenix.help/matematika/algoritm-evklida)
+3. [Наибольший общий делитель. Алгоритм Евклида](https://interneturok.ru/lesson/matematika/6-klass/delimost-chisel/naibolshiy-obschiy-delitel-algoritm-evklida)
+4. [https://kvodo.ru/binarnyiy-algoritm-vyichisleniya-nod.html](https://spravochnick.ru/informatika/rasshirennyy_algoritm_evklida/)
+5. [Расширенный алгоритм Евклида](https://intuit.ru/studies/courses/552/408/lecture/9351?page=3)
