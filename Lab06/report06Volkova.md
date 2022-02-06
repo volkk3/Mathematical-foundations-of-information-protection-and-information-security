@@ -141,7 +141,7 @@ main()
 
 ## Контрольный пример
 
-![Пример работы алгоритма](image/Screenshot_1.png){ #fig:001 width=70% height=70%}
+![Пример работы алгоритма](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab06/screen/png06.PNG){ #fig:001 width=70% height=70%}
 
 Получили, что число 1181 является нетривиальным делителем числа 1359331.
 
