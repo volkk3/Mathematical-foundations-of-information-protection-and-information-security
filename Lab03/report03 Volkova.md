@@ -118,7 +118,7 @@ print('Криптограмма:', encrypted)
 
 ## Контрольный пример
 
-![Пример работы алгоритма](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/raw/Lab03/screen/png03.png){ #fig:001 width=70% height=70%}
+![Пример работы алгоритма](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/raw/Lab03/screen/png03.PNG){ #fig:001 width=70% height=70%}
 
 
 # Выводы
