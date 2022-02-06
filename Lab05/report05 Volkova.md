@@ -258,16 +258,20 @@ else:
 
 ## Контрольный пример
 
-![Пример работы алгоритма](image/Screenshot_1.png){ #fig:001 width=70% height=70%}
+![Пример работы алгоритма тест Ферма](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab05/screen/png05_1.PNG){ #fig:001 width=70% height=70%}
 
-Таким образом, число 1181 является нетривиальным делителем числа 1359331.
+![Пример работы алгоритма символ Якоби](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab05/screen/png05_2.PNG){ #fig:001 width=70% height=70%}
+
+![Пример работы алгоритма тест Соловэя-Штрассена](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab05/screen/png05_3.PNG){ #fig:001 width=70% height=70%}
+
+![Пример работы алгоритма тест Миллера-Рабина](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab05/screen/png05_4.PNG){ #fig:001 width=70% height=70%}
 
 # Выводы
 
-В ходе выполнения работы мне удалось изучить задачу разложения на множители и p-алгоритм Полларда, а также реализовать данный алгоритм программно на языке Python.
-
+В ходе выполнения работы удалось изучить вероятностные алгоритмы проверки чисел на простоту, такие как тест Ферма, тест Соловэя-Штрассена, тест Миллера-Рабина, а также реализовать данные алгоритмы программно на языке Python.
 
 # Список литературы{.unnumbered}
 
-1. [Алгоритмы тестирования на простоту и факторизации](https://habr.com/ru/post/521876/)
-2. [P-метод Полларда](https://ru.bmstu.wiki/P-метод_Полларда)
+1. [Алгоритмы поиска простых чисел](https://habr.com/ru/post/468833/)
+2. [Лекция 2: Алгоритмы тестирования на простоту и факторизации](https://intuit.ru/studies/courses/13837/1234/lecture/31191)
+3. [Проверка чисел на простоту](https://spravochnick.ru/informatika/algoritmizaciya/proverka_chisel_na_prostotu/)
