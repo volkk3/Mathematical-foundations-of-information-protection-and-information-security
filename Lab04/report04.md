@@ -291,11 +291,19 @@ print('НОД(a,b)=',d)
 
 ![Пример работы алгоритма Евклида](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab04/screen/png04_1.PNG){ #fig:001 width=70% height=70%}
 
+Пример работы алгоритма Евклида
+
 ![Пример работы бинарного алгоритма Евклида](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab04/screen/png04_2.PNG){ #fig:001 width=70% height=70%}
+
+Пример работы бинарного алгоритма Евклида
 
 ![Пример работы расширенного алгоритма Евклида](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab04/screen/png04_3.PNG){ #fig:001 width=70% height=70%}
 
+Пример работы расширенного алгоритма Евклида
+
 ![Пример работы расширенного биннарного алгоритма Евклида](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab04/screen/png04_4.PNG){ #fig:001 width=70% height=70%}
+
+Пример работы расширенного биннарного алгоритма Евклида
 
 # Выводы
 
