@@ -148,8 +148,10 @@ print('Криптограмма:', encrypted)
 ## Контрольный пример
 
 ![Пример работы алгоритма Цезаря](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab01/screen/png01_1.PNG){ #fig:001 width=70% height=70%}
+Пример работы алгоритма Цезаря
 
 ![Пример работы алгоритма Атбаш](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab01/screen/png01_2.PNG){ #fig:001 width=70% height=70%}
+Пример работы алгоритма Атбаш
 
 # Выводы
 
