@@ -188,7 +188,11 @@ print('Криптограмма:', encrypted)
 
 ![Пример работы алгоритма маршрутное шифрование](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab02/screen/png02_1.PNG){ #fig:001 width=70% height=70%}
 
+Пример работы алгоритма маршрутное шифрование
+
 ![Пример работы алгоритма таблица Вижинера](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab02/screen/png02_2.PNG){ #fig:001 width=70% height=70%}
+
+Пример работы алгоритма таблица Вижинера
 
 # Выводы
 
