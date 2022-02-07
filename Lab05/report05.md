@@ -260,11 +260,19 @@ else:
 
 ![Пример работы алгоритма тест Ферма](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab05/screen/png05_1.PNG){ #fig:001 width=70% height=70%}
 
+Пример работы алгоритма тест Ферма
+
 ![Пример работы алгоритма символ Якоби](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab05/screen/png05_2.PNG){ #fig:001 width=70% height=70%}
+
+Пример работы алгоритма символ Якоби
 
 ![Пример работы алгоритма тест Соловэя-Штрассена](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab05/screen/png05_3.PNG){ #fig:001 width=70% height=70%}
 
+Пример работы алгоритма тест Соловэя-Штрассена
+
 ![Пример работы алгоритма тест Миллера-Рабина](https://github.com/volkk3/Mathematical-foundations-of-information-protection-and-information-security/blob/main/Lab05/screen/png05_4.PNG){ #fig:001 width=70% height=70%}
+
+Пример работы алгоритма тест Миллера-Рабина
 
 # Выводы
 
